@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and working on Python, Django, Machine Learning, Data Science, Ajax, jQuery, JavaScript, Golang, HTML, CSS etc,.
 - 💞️ I’m looking to collaborate on Django, Data Analytics, openCV, ml, DScience projects.
 - 📫 How to reach me : satishkurakula073@gmail.com or call me @ 8801180337
-- Resume: [<b>View Satish Kurakula's Resume</b>](https://www.linkedin.com/in/hemakalyan/overlay/1707864994921/single-media-viewer/?profileId=ACoAADmep7QBb8t8l7K6529PrhRRjUCWzufUG5M)
+- Resume: [<b>View Satish Kurakula's Resume</b>]([https://www.linkedin.com/in/hemakalyan/overlay/1707864994921/single-media-viewer/?profileId=ACoAADmep7QBb8t8l7K6529PrhRRjUCWzufUG5M](https://bold.pro/my/kurakula-satish))
 - LinkedIn: [<b>View Satish Kurakula's LinkedIn</b>]([https://www.linkedin.com/in/hemakalyan/overlay/1707864994921/single-media-viewer/?profileId=ACoAADmep7QBb8t8l7K6529PrhRRjUCWzufUG5M](https://www.linkedin.com/in/satish-kurakula-10213394/))
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
