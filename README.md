@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Creative work.
 - 🌱 I’m currently learning and working on Python, Django, Machine Learning, Data Science, Ajax, jQuery, JavaScript, Golang, HTML, CSS etc,.
 - 💞️ I’m looking to collaborate on Django, Data Analytics, openCV, ml, DScience projects.
-- 📫 How to reach me : satishkurakula073@gmail.com or call me @ 8801180337
+- 📫 How to reach me : satishkurakula073@gmail.com
 - Resume: [<b>View Satish Kurakula's Resume</b>](https://bold.pro/my/kurakula-satish)
 - LinkedIn: [<b>View Satish Kurakula's LinkedIn</b>](https://www.linkedin.com/in/satish-kurakula-10213394/)
 
